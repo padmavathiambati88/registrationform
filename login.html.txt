@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>
+            login 
+        </title>
+    </head>
+    <body bgcolor="pink">
+        <center>
+            <fieldset>
+                <legend>Login Details</legend>
+                <label>username:</label>
+                <input type="text"><br>
+                <label>Password:</label>
+                <input type="password"><br>
+            </fieldset>
+            <h6>registration before get into login?</h6><br>
+            <a href="registrationform.html">registrationform</a>    
+        </center>
+    </body>
+</html>
